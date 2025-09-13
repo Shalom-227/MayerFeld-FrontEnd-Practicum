@@ -1,0 +1,1 @@
+A curated collection of tasks completed during the MayerFeld FrontEnd Practicum, showcasing hands-on experience with modern web development tools and techniques.
